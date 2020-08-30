@@ -1,5 +1,5 @@
 _repo: Tres-relatos-portenos-Segunda-edicion_62986
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Sanín Cano, Baldomero
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Baldomero_San%C3%ADn_Cano
     - https://es.wikipedia.org/wiki/Baldomero_San%C3%ADn_Cano
+covers:
+- cover_type: archival
+  image_path: 62986-h/images/cover.jpg
 creator:
   author:
     agent_name: Cancela, Arturo
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Arturo_Cancela
     - https://es.wikipedia.org/wiki/Arturo_Cancela
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62986#Tres-relatos-portenos-Segunda-edicion
 gutenberg_issued: '2020-08-20'
 gutenberg_type: Text
 identifiers:
