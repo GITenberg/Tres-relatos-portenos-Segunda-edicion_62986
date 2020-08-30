@@ -1,0 +1,47 @@
+_repo: Tres-relatos-portenos-Segunda-edicion_62986
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Sanín Cano, Baldomero
+    aliases:
+    - Sanín Cano, B. (Baldomero)
+    - Cano, Baldomero Sanín
+    - Sanin Cano, Baldomero
+    birthdate: 1861
+    deathdate: 1957
+    gutenberg_agent_id: '52200'
+    url: http://www.gutenberg.org/2009/agents/52200
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Baldomero_San%C3%ADn_Cano
+    - https://es.wikipedia.org/wiki/Baldomero_San%C3%ADn_Cano
+creator:
+  author:
+    agent_name: Cancela, Arturo
+    alias: Cancela, A. (Arturo)
+    birthdate: 1892
+    deathdate: 1957
+    gutenberg_agent_id: '52213'
+    url: http://www.gutenberg.org/2009/agents/52213
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arturo_Cancela
+    - https://es.wikipedia.org/wiki/Arturo_Cancela
+description: ''
+gutenberg_issued: '2020-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62986'
+  lccn: '29025216'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentine fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Prólogo -- El cocobacilo de Herrlin -- Una semana de holgorio --
+  El culto de los héroes.
+title: 'Tres relatos porteños
+
+  Segunda edición'
+url: http://www.gutenberg.org/ebooks/62986
